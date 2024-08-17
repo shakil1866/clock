@@ -152,6 +152,7 @@ padding: 0px;
   #clock{
     padding-right: 19px;
   }
+  
 }
 
 @media screen and (max-width: 635px) {
@@ -162,6 +163,11 @@ padding: 0px;
   padding-right: 19px;
 font-size: 7rem;
  }
+ 
+ .timeHolder {
+    display: none;
+  }
+  
 }
 
 
