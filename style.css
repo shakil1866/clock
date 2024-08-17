@@ -152,6 +152,9 @@ padding: 0px;
   #clock{
     padding-right: 19px;
   }
+  .timeHolder i {
+    display: none;
+  }
   
 }
 
@@ -164,10 +167,8 @@ padding: 0px;
 font-size: 7rem;
  }
  
- .timeHolder {
-    display: none;
-  }
-  
+ 
+
 }
 
 
